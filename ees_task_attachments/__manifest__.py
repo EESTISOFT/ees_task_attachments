@@ -12,7 +12,7 @@
     'data': [
         'views/doc_button.xml'
     ],
-    'images':'[/static/description/t_a_front.png]',
+    'images':['/static/description/t_a_front.png'],
     'installable': True,
     'auto_install': False,
     'application': False,
