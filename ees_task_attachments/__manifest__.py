@@ -6,7 +6,7 @@
     'sequence': 1,
     'summary': "Add attachments to project tasks",
     'description': "EESTISOFT module which adds 'attachments' feature to tasks and sub-tasks in Project.",
-    'author': 'EESTISOFT, ' 'Mateus Cappellari Vieira',
+    'author': 'EESTISOFT', 'Mateus Cappellari Vieira', 'Tiago Magrini Rigo',
     'website': '',
     'depends': ['base','project'],
     'data': [
